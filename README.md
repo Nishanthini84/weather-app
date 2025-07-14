@@ -1,32 +1,22 @@
 # 🌤️ Weather App
 
 A beautiful and responsive weather app built using HTML, CSS, and JavaScript.  
-It uses the OpenWeatherMap API to fetch real-time weather information.
-
-## Features
-
-- Live weather data (Temperature, Condition, Humidity, Wind Speed)
-- Works for any Indian city (like Salem, Namakkal, Chennai, etc.)
-- Responsive and modern UI
-- Basic error handling
-
-## Tech Stack
-
-- HTML
-- CSS (with glassmorphism design)
-- JavaScript (with async/await)
-- OpenWeatherMap API
-
-## Preview
-
-![Screenshot](screenshot.png)
-
-## Setup
-
-1. Clone this repo
-2. Replace API key in `script.js`
-3. Run `index.html` in browser
+It uses the OpenWeatherMap API to fetch real-time weather information for any Indian city or district.
 
 ---
 
-Made with ❤️ by Kutti
+## ✨ Features
+
+- ✅ Live weather data: temperature, condition, humidity, wind speed
+- 🌍 Works for all cities and districts (Chennai, Namakkal, Coimbatore, etc.)
+- 💻 Responsive and modern UI
+- 🚫 Error handling for invalid cities
+
+---
+
+## 🛠️ Setup
+
+```bash
+1. Clone this repository
+2. Open `script.js` and replace with your OpenWeatherMap API key
+3. Open `index.html` in any browser to run the app
